@@ -1,2 +1,2 @@
 # Trojan
-A program that give you an option to hide  a path
+A program that give you an option to encrypt a path
